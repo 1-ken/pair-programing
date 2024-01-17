@@ -1,0 +1,46 @@
+
+
+header{
+  margin: 0 auto;
+  width: 500px;
+}
+
+h1{
+  text-align: center;
+}
+
+.container{
+  background-color:bisque;
+  padding: 1em 1em;
+}
+
+label{
+  display: block;
+  font-size: 20px;
+  margin: .7em;
+}
+
+#binaryinput{
+  padding: 1em;
+  margin: 0 2em 1em 1em ;
+  font-size: 15px;
+  background-color: bisque;
+
+}
+
+#result{
+  border: 2px solid black;
+  padding: 1em;
+  width: 160px;
+  height: 10px;
+  margin: 0 2em 1em 1em ;
+}
+
+button{
+  padding: .6em 2.5em;
+  background-color: bisque;
+  color:black;
+  font-size: 20px;
+  margin-left: -1em;
+  border: 2px solid black;
+}
